@@ -1,6 +1,5 @@
 
-If you want a chuckle (or a cringe), dive into my GitHub time capsule. The codes are there, untouched since 2020, like artifacts from a bygone era. Python 3, Google Colab, and a sprinkle of satirical humor - because who said deep learning can't be fun? 🐍😄
-
+The codes are there, untouched since 2020, like artifacts from a bygone era. Python 3, Google Colab.
 Feel free to explore the relics of my past self.
 
 **Final Project**
